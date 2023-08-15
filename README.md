@@ -1,6 +1,8 @@
 # Expense-Manager-App
 A simple personal expense manager App
 
+run the `db_script.py` to create a databse and then run `expense_manager.py` everytime to make a transaction or record any changes.
+
 ## Interface
 
 - Clicking on `Add Money Source` button shows
